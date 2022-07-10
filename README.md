@@ -12,9 +12,9 @@
 <br>
 
 ## 💻 I'm Studying... 💻</br></br>
-<img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white" height = "30">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white" height = "30">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white" height = "30">
+<img src="https://img.shields.io/badge/Unity-5D5D5D?style=for-the-badge&logo=Unity&logoColor=white" height = "30">
+<img src="https://img.shields.io/badge/C%23-93CC8D?style=for-the-badge&logo=CSharp&logoColor=white" height = "30">
+<img src="https://img.shields.io/badge/C++-8EC7D0?style=for-the-badge&logo=c%2B%2B&&logoColor=white" height = "30">
 
 
 <br>
@@ -28,6 +28,25 @@
 <br>
 <br>
 <br>
+
+
+## 😊 About Me... 😊</br></br>
+
+📧 Contact on dlalsdud102613@gmail.com!
+<br><br>
+<a href = "https://www.youtube.com/channel/UCid8GbQ31Ni-JS0apEtrqIg/videos">
+<img src="https://img.shields.io/badge/YouTube-FF4848?style=for-the-badge&logo=YouTube&logoColor=white" height = "30">
+</a>
+
+
+<a href = "http://ggm.gondr.net/user/profile/126">
+<img src="https://img.shields.io/badge/Potfolio-FAED7D?style=for-the-badge&logo=Potfolio&logoColor=white" height = "30">
+</a>
+
+<br>
+<br>
+<br>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thnaks%20For%20Visiting%20My%20Github!&fontSize=30&animation=fadeIn&fontAlignY=70)
