@@ -31,6 +31,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalsdud102613)](https://solved.ac/dlalsdud102613/)
 
+<img src="http://mazandi.herokuapp.com/api?handle=dlalsdud102613&theme=warm"/>
+
 <br>
 <br>
 <br>
