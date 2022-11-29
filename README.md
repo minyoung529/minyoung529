@@ -41,15 +41,20 @@
 ## 😊 About Me... 😊</br></br>
 
 📧 Contact on dlalsdud102613@gmail.com!
+
 <br><br>
 <a href = "https://www.youtube.com/channel/UCid8GbQ31Ni-JS0apEtrqIg/videos">
 <img src="https://img.shields.io/badge/YouTube-FF4848?style=for-the-badge&logo=YouTube&logoColor=white" height = "30">
 </a>
-
-
+<br>
 <a href = "http://ggm.gondr.net/user/profile/126">
 <img src="https://img.shields.io/badge/Potfolio-FAED7D?style=for-the-badge&logo=Potfolio&logoColor=white" height = "30">
 </a>
+<br>
+<a href = "https://minyoung529.tistory.com/">
+<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=Blog&logoColor=black" height = "30">
+</a>
+
 
 <br>
 <br>
