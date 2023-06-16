@@ -25,16 +25,6 @@
 <br>
 <br>
 
-## ✏️ My Stats... ✏️</br></br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung529&show_icons=true&theme=onedark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalsdud102613)](https://solved.ac/dlalsdud102613/)
-
-<br>
-<br>
-<br>
-
 
 ## 😊 About Me... 😊</br></br>
 
